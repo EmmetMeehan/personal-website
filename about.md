@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Hey, thanks for visiting. 
+I like to connect with people. The best way to reach me is via email - AdaptiveHustle@icloud.com
