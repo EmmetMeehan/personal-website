@@ -1,6 +1,6 @@
 ---
 title: How to Live an Interesting Life
-updated: 2013-05-15
+updated: 2013-01-14
 ---
 
 ### If your life were a book, would anyone want to read it?
