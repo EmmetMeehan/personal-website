@@ -1,24 +1,46 @@
 ---
-title: Lorem Ipsum
-updated: 2015-09-06 15:56
+title: How to Live an Interesting Life
+updated: 2013-05-15
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+### If your life were a book, would anyone want to read it?
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Sometimes it actually stresses me out thinking about how many people are "average", or at least people that are completely cool with sliding by under the radar. I just don't get it. 
 
-### Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+I don't think most people realize how tiny we are. If you don't do anything about your life, it is going to pass you by, you'll be dead and gone in no time, with no one remembering much about you. I know that is a dark way to put it, but it's the brutal truth.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+"Today is the youngest you'll ever be again."
 
-### 1914 translation by H. Rackham
+It's very hard to grasp that. Everyone always wishes they could experience the past over again, just if they would have taken a picture, or kissed that girl, or bought that stock, or made that call, or said to themselves "Fuck it, what do I have to lose?"
 
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+First, you might want to step back and ask yourself a few questions. Is your life interesting? 
 
-### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+When was the last time you laughed till you were crying and on the verge of pissing yourself?
+When was the last time you were really nervous?
+Who is your newest friend? How did you meet?
+When was the last time you were lost?
+Where is the farthest you've ever been from home?
+What was your last big purchase?
+When was the last time you broke a sweat?
 
-"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+After you've asked yourself some of these, you may have a better perspective of where you're at, hopefully some of the answers will motivate you to make a change. Maybe it makes you realize, "Wow, I'm boring"...Don't be boring.
 
-### 1914 translation by H. Rackham
+Forget Fear. What the fuck are you scared of? Getting turned down? Being embarrassed? Looking stupid? Failing? C'mon, grow a pair and give it a shot. Whatever you're nervous of just stop making excuses and do it. Chances are once "it" is done you're going to realize how easy it was. This will help you next time you are faced with fear. “Don't give in to your fears. If you do, you won't be able to talk to your heart.”- Paulo Coelho
 
-"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+Never Let Go Of Your Inner Child. When and why do people stop being kids? Kids are the ones that are always running around, laughing, playing, getting scared, hurting themselves. There is no reason why everyone shouldn't be like this. Society can make people very boring and miserable. Don't drown your inner voice that says "Woah! Thats soooo cool!!!!". "I'm not being immature, I'm having fun. You should try it some time."
+
+Be Outgoing. One of the question's I wrote earlier was to ask yourself who your newest friend was and how you met them. If it's been months since you've met someone, that's not good. Just get out there and talk to people. Use http://www.meetup.com, I can't tell you how much that website has positively effected my life. You don't have to go out and look for a new best friend or lover, just talk with people. You don't know who you are going to meet or where it will lead you. People are pretty friendly. "There are no strangers, only friends you haven't met."
+
+Try New Things. Think a food looks gross and you wonder how in the world people can eat it? They can probably eat it because it's damn good. How about you give it a try. Do you think skateboarding is cool? Don't you wish you could skate around and do tricks...Well get a board and try it out, next time you see someone riding one ask them if you could try for five minutes, you've never done it before. If you bust your ass, who cares.. the skateboarder doesn't care, he was probably expecting that. Your ass hurts for a day or two, big friggin deal. "A person who never made a mistake never tried anything new." -Albert Einstein
+
+Be Independent. If you're relying on anyone else you're only going as far as they are. Are you getting money from parents? Grow up and get a job yourself. Want to travel somewhere or go skydiving and none of your friends are up for it? Screw 'em, go alone. "We must become the change we wish to see in the world." -Gandhi
+
+Be Different. I CANNOT STRESS THIS ENOUGH. No, you don't have to go out of your way to be that guy that's dressed absolutely ridiculous, or be the one that hates something just because everyone else likes it. You should not be different just for the sake of being different, you should be "different" because that's what you want to do. Don't wear neon green shoe laces just because no one else has them, wear them cause you thought in your head, "Neon green laces would be pretty cool." Ignore anyone that says, "dude, those look gay" or "why the hell do you have green laces". You got green laces because you wanna wear green laces, your green laces aren't effecting anyone else. "We are all born originals - why is it so many of us die copies?" -Edward Young
+
+Travel. This is another big one. If you want to have a more interesting life you should meet some interesting people! They are all over the place. The norm in America for instance is going to be completely different then the norm in India, or New Zealand. Go see for yourself.  “The world is a book and those who do not travel read only one page.” -St. Augustine
+
+I could go on and on, but all of this has a reoccurring theme. You need to break away from old beliefs. You need to stop talking and start doing. Stop making excuses. What it all comes down to is breaking out of your shell, you need to go interact with the world.
+
+Interact with people. Interact with new foods. Interact with new areas. Take a different way home. Listen to a different radio station, read a new book, go try a yoga class, play tennis. It's quite simple really, you just need to do stuff. Never stop doing. Break your routine.
+
+Play loud music, take off your shoes, go roll around in the grass. If you want to do something, go do it.
