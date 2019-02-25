@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-I like to connect with people. The best way to reach me is via email - AdaptiveHustle@icloud.com
+A lot of people have a lot to say. I'm just one of those people.
