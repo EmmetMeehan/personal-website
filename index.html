@@ -18,7 +18,7 @@ layout: default
 		<ul>
 			<li>
 				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }}</span>
+				<!--	<span>{{ post.date | date: "%b %d" }}</span>-->
 				</div>
 				<div class="title">
 					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
@@ -27,5 +27,17 @@ layout: default
 		</ul>
 
 	{% endfor %}
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124344475-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124344475-1');
+</script>
+
+
 
 </section>
